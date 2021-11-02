@@ -1,5 +1,11 @@
 music1 ="";
 music2 = "";
+x = "";
+scoreLeftWrist = 0;
+leftWristX = "";
+leftWristY = "";
+rightWristX = "";
+rightWristY = "";
 function preload(){
 music1 = loadSound("music.mp3");
 music2 = loadSound("music.mp3");
